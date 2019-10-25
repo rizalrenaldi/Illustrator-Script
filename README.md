@@ -13,8 +13,7 @@ Adapted & modified from:
 - [https://community.adobe.com/t5/Illustrator/Script-rename-layers/m-p/2450915#M4589](https://community.adobe.com/t5/Illustrator/Script-rename-layers/m-p/2450915#M4589)
 ---
 ### LayerRename-AddPrefix-function.jsx
-
-Works exactly the same as LayerRename-AddPrefix, but this one wrapped in function. Much more correctly structurized in programming point of view?
+**Add Prefix to Layer Name** -- Works exactly the same as LayerRename-AddPrefix, but this one wrapped in function. Much more correctly structurized in programming point of view?
 ---
 ### ArtboardRename-AddPrefix.jsx
 **Add Prefix to Layer Name** -- Tested on Adobe Illustrator 2019 -- Same as LayerRename-AddPrefix but for artboard. 
