@@ -9,7 +9,7 @@ for(i=0;docRef.layers.length>i;i++){
 }
 
 if (input) {
-  alert("Layers renamed");
+  alert("Prefix Added!");
 }
   
 
