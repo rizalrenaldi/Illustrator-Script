@@ -1,8 +1,8 @@
 var input = prompt("Enter Prefix", "");
-var docRef = app.activeDocument;
+var doc = app.activeDocument;
 
-for(i=0;docRef.layers.length>i;i++){
-  var currentLayer = docRef.layers[i];
+for(i=0;doc.layers.length>i;i++){
+  var currentLayer = doc.layers[i];
     if (input && currentLayer.visible) {
       currentLayer.name = input + currentLayer.name;
     }
