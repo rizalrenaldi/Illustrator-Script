@@ -2,7 +2,7 @@
 
 Some of script I copy-pasted and/or modified from many publicly/unlicensed scripts on Stack Overflow, Adobe Community Forum and the power of Google Search.
 
-*disclaimer: I'm a designer, not a programmer. So the code might "wrong", but I've tested and it definitely works :)*
+*Disclaimer: I'm a designer, not a programmer. So the code might "wrong", but I've tested and it definitely works :) Please do submit PR if you want to fix it*
 
 ## Scripts
 
