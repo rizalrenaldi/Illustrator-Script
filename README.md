@@ -1,10 +1,17 @@
 # Adobe Illustrator Script
 
-Disclaimer: I'm a designer, not a programmer.
+Some of script I copy-pasted and/or modified from many publicly/unlicensed scripts on Stack Overflow, Adobe Community Forum and the power of Google Search.a# Adobe Illustrator Script
 
-Some of script I made by modifying many script from existing scripts available from Stack Overflow, Adobe Community Forum and the power of Google Search.
+Some of script I copy-pasted and/or modified from many publicly/unlicensed scripts on Stack Overflow, Adobe Community Forum and the power of Google Search.
 
 ## Scripts
 
-- Add Prefix to Layer Name
-Batch adding prefix to all visible layers in active document. Prefix is assign from input box that appear when executing script.
+### LayerRename-AddPrefix.jsx
+**Add Prefix to Layer Name** -- Batch adding prefix to all visible layers in active document. Prefix is assigned from input box that appear when executing script.
+
+
+## Scripts
+
+### LayerRename-AddPrefix.jsx
+Add Prefix to Layer Name
+Batch adding prefix to all visible layers in active document. Prefix is assigned from input box that appear when executing script.
