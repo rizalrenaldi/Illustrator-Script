@@ -1,4 +1,4 @@
-var input = prompt("Enter Layer Name", "");
+var input = prompt("Enter Prefix", "");
 
 var docRef = app.activeDocument;
 
