@@ -1,7 +1,5 @@
 # Adobe Illustrator Script
 
-Some of script I copy-pasted and/or modified from many publicly/unlicensed scripts on Stack Overflow, Adobe Community Forum and the power of Google Search.a# Adobe Illustrator Script
-
 Some of script I copy-pasted and/or modified from many publicly/unlicensed scripts on Stack Overflow, Adobe Community Forum and the power of Google Search.
 
 ## Scripts
