@@ -1,19 +1,20 @@
-function artBoardName_serial() {
-    var input = prompt("Enter Prefix", "");
+var input = prompt("Enter Prefix", "");
+
+function artBoardAddPrefix() {
     var doc = app.activeDocument;  
     for (var i = 0, l = doc.artboards.length; i < l; i++) {  
         if (doc.artboards[i].active) {
-                }
-                // THIS IS WHERE THE RENAMING HAPPENS
-                doc.artboards[i].name = input + doc.artboards[i].name;  
-            }    
+            }
+            // THIS IS WHERE THE RENAMING HAPPENS
+            doc.artboards[i].name = input + doc.artboards[i].name;  
+        }
     }
 
-function renameArtBoard_MAIN() {
+function artboardCheck() {
     if (app.documents.length == 0) {  
 alert("No Open / Active Document Found");  
-    } else {  
-        artBoardName_serial();
+    } else if (input) {  
+        artBoardAddPrefix();
     }  
 }
 

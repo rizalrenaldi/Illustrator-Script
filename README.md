@@ -1,6 +1,6 @@
 # Adobe Illustrator Script
 
-Some of script I copy-pasted and/or modified from many publicly/unlicensed scripts on Stack Overflow, Adobe Community Forum and the power of Google Search. This is also the way I'm learning javascript at the same time.
+Some of script I modified from many publicly/unlicensed scripts on Stack Overflow, Stack Exchange, Adobe Community Forum and the power of Google Search. At the same time this is also become the way I'm learning javascript.
 
 *Disclaimer: I'm a designer, not a programmer. So the code might "wrong", but I've tested and it definitely works :) Open for correction and please do submit PR if you want to fix it.*
 
@@ -15,7 +15,7 @@ Adapted & modified from:
 ---
 
 ### LayerRename-AddPrefix-function.jsx
-**Add Prefix to Layer Name** -- Works exactly the same as LayerRename-AddPrefix, but this one wrapped in function. Much more correctly structurized in programming point of view?
+**Add Prefix to Layer Name** -- Works exactly the same as LayerRename-AddPrefix, but this one wrapped in function. Much more correctly structurized (or efficient?) in programming point of view?
 
 ---
 
