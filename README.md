@@ -7,7 +7,7 @@ Some of script I modified from many publicly/unlicensed scripts on Stack Overflo
 ## Scripts
 
 ### LayerRename-AddPrefix.jsx
-**Add Prefix to Layer Name** -- Tested on Adobe Illustrator 2019 -- Batch adding prefix to all visible layers in active document (invisible layer will not affected). Prefix is assigned from input box that appear when executing script.
+**Add Prefix to Layer Name** -- Tested on Adobe Illustrator 2019 -- Batch adding prefix to all visible layers in active document (invisible layer will not be affected). Prefix is assigned from input box that appear when executing script.
 Adapted & modified from:
 - [https://stackoverflow.com/a/32877698](https://stackoverflow.com/a/32877698)
 - [https://community.adobe.com/t5/Illustrator/Script-rename-layers/m-p/2450915#M4589](https://community.adobe.com/t5/Illustrator/Script-rename-layers/m-p/2450915#M4589)
